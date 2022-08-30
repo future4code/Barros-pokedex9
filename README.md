@@ -2,7 +2,7 @@
 
 Nome dos integrantes: 
 - Pessoa 1
-- Pessoa 2
+- Kayo Céshar Rêgo Dias dos Santos
 - Pessoa 3
 
 Link do Surge: www.link.com.br
