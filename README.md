@@ -1,16 +1,17 @@
 # POKEDEX
 
 Nome dos integrantes: 
-- Pessoa 1
+- Renato Marques Peçanha Araújo
 - Kayo Céshar Rêgo Dias dos Santos
 - Pessoa 3
 
 Link do Surge: www.link.com.br
 
 O que funciona:
-- Item 1
-- Item 2
+- Listar Pokes
+- Filtrar Pokes
+- Muito mais por vir!
 
 O que não funciona: 
-- Item 3
+- Ah, todo o resto! =P
 - Item 4
