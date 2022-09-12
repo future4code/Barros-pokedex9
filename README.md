@@ -5,13 +5,12 @@ Nome dos integrantes:
 - Kayo Céshar Rêgo Dias dos Santos
 - Pessoa 3
 
-Link do Surge: www.link.com.br
+Link do Surge: http://absolute-master.surge.sh/
 
 O que funciona:
 - Listar Pokes
 - Filtrar Pokes
-- Muito mais por vir!
+- Adicionar a Pokedex.
 
 O que não funciona: 
-- Ah, todo o resto! =P
-- Item 4
+
