@@ -3,7 +3,7 @@
 Nome dos integrantes: 
 - Renato Marques Peçanha Araújo
 - Kayo Céshar Rêgo Dias dos Santos
-- Pessoa 3
+- Gabriel Vieira
 
 Link do Surge: http://absolute-master.surge.sh/
 
