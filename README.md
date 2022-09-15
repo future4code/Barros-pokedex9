@@ -1,16 +1,16 @@
 # POKEDEX
 
 Nome dos integrantes: 
-- Pessoa 1
-- Pessoa 2
-- Pessoa 3
+- Renato Marques Peçanha Araújo
+- Kayo Céshar Rêgo Dias dos Santos
+- Gabriel Vieira
 
-Link do Surge: www.link.com.br
+Link do Surge: http://absolute-master.surge.sh/
 
 O que funciona:
-- Item 1
-- Item 2
+- Listar Pokes
+- Filtrar Pokes
+- Adicionar a Pokedex.
 
 O que não funciona: 
-- Item 3
-- Item 4
+
