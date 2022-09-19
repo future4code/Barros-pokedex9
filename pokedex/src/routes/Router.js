@@ -1,5 +1,6 @@
 import React from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import Details from '../screen/Details/details';
 import PokeListScreen from '../screen/PokeListScreen/PokeListScreen';
 
 
@@ -10,6 +11,7 @@ function Router () {
     <BrowserRouter>
       <Routes>
         <Route index element={<PokeListScreen />} />
+        <Route path="/details/:id" element={<Details/>} />
   
       </Routes>
     </BrowserRouter>
